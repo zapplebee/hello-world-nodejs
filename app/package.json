@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-nodejs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
